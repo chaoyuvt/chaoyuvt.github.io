@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Links</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f7f9fc;
+            color: #333;
+        }
+
+        header {
+            background-image: url('header.jpg');
+            background-size: cover; /* Makes sure the image covers the entire header */
+            background-repeat: no-repeat; /* Prevents image from repeating */
+            background-position: center; /* Centers the image */
+            color: white;
+            text-align: center;
+            padding: 7em 0;
+        }
+
+
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #808080;
+        }
+
+        nav a {
+            color: white;
+            padding: 14px 20px;
+            text-decoration: none;
+            text-align: center;
+        }
+
+        nav a:hover {
+            background-color: #1abc9c;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 20px;
+            background-color: #ffffff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        img.profile-pic {
+            display: block;
+            max-width: 250px;
+            margin: 20px auto;
+            border-radius: 10%;
+        }
+
+        h2 {
+            border-bottom: 2px solid #2c3e50;
+            padding-bottom: 10px;
+            margin: 20px 0;
+        }
+
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #808080;
+            color: white;
+        }
+        .social-links {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin: 20px 0;
+        }
+
+        .social-links a {
+            color: #333;
+            font-size: 24px;
+            transition: color 0.3s;
+        }
+
+        .social-links a:hover {
+            color: #007bff;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+
+    <h1></h1>
+    <p> </p>
+</header>
+
+<nav>
+<!--    <a href="#home">Home</a>-->
+    <a href="https://www.cnsr.ictas.vt.edu/">CNSR</a>
+    <a href="#research">Research</a>
+    <a href="#publications">Publications</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<div class="container" id="home">
+
+    <h1>Chaoyu Zhang</h1>
+    <img src="profile.png" alt="Chaoyu Zhang" class="profile-pic">
+    <div class="social-links">
+
+        <a href="https://scholar.google.com/citations?user=1ef7XoUAAAAJ&hl=en&inst=13410158990364976897" target="_blank" title="Google Scholar"><i class="fab fa-google"></i></a>
+        <a href="https://www.linkedin.com/in/chaoyu-zhang-948977237/" target="_blank" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+        <a href="https://github.com/chaoyuvt" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
+        <a href="https://www.youtube.com/channel/UCtXcwTXyFt5291EbEK24Dwg" target="_blank" title="YouTube"><i class="fab fa-youtube"></i></a>
+    </div>
+
+</div>
+
+<div class="container" id="about">
+    <h2>About</h2>
+    <p>
+        I graduated with a B.S. in Electrical Engineering from the Beijing University of Posts and Telecommunications (BUPT)
+        in Beijing, China, in 2018. Later, I obtained an M.S. in Computer Science from Arkansas State University, Arkansas,
+        USA, in 2021. Currently, I am working towards a Ph.D. in Computer Science at Virginia Tech, under the supervision
+        of Prof. Wenjing Lou.
+    </p>
+</div>
+
+<div class="container" id="research">
+    <h2>Research</h2>
+    <ul>
+        <li>Machine Learning Security</li>
+        <br>
+        <li>Blockchain</li>
+        <br>
+        <li>High-Performance Computing</li>
+    </ul>
+</div>
+
+<div class="container" id="publications">
+    <h2>Publications</h2>
+    <ul>
+        <li>
+            Zhang, Chaoyu. Sharcs: Secure Hierarchical Adaptive Reliable Cloud Storage Systems. Arkansas State University, 2021.
+        </li>
+        <br>
+        <li>
+            Zhang, Chaoyu, et al. "High-performance and energy-efficient fpga-gpu-cpu heterogeneous system implementation." Advances in Parallel & Distributed Processing, and Applications: Proceedings from PDPTA'20, CSC'20, MSV'20, and GCC'20. Springer International Publishing, 2021.
+        </li>
+        <br>
+        <li>
+            Yu, Hexuan, Chaoyu Zhang, and Hai Jiang. "A FPGA-Based Heterogeneous Implementation of NTRUEncrypt." Advances in Parallel & Distributed Processing, and Applications: Proceedings from PDPTA'20, CSC'20, MSV'20, and GCC'20. Springer International Publishing, 2021.
+        </li>
+        <br>
+        <li>
+            Li, Ruipeng, and Chaoyu Zhang. "Efficient parallel implementations of sparse triangular solves for GPU architectures." Proceedings of the 2020 SIAM Conference on Parallel Processing for Scientific Computing. Society for Industrial and Applied Mathematics, 2020.
+            <br>
+        </li>
+        <br>
+        <li>
+            Fan, Kai, et al. "GPU Acceleration of Ciphertext-Policy Attribute-Based Encryption." 2019 20th IEEE/ACIS International Conference on Software Engineering, Artificial Intelligence, Networking and Parallel/Distributed Computing (SNPD). IEEE, 2019.
+        </li>
+        <br>
+        <li>
+            Zhang, Chaoyu, Ruipeng Li, and Hai Jiang. "Optimization of GPU Kernels for Sparse Matrix Computations in Hypre." (2019).
+        </li>
+        <br>
+
+    </ul>
+</div>
+
+<div class="container" id="contact">
+    <h2>Contact</h2>
+
+    <p>Email: chaoyu at vt dot edu </p>
+    <p>Address: 900 N Glebe Rd, Arlington, VA 22203</p>
+</div>
+
+<footer>
+    Chaoyu Zhang © 2023. All rights reserved.
+</footer>
+
+</body>
+
+</html>

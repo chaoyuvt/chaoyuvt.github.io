@@ -14,6 +14,18 @@ body {
 	background: #fff;
 }
 /*General*/
+.image-container {
+	display: flex;
+	justify-content: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.image-container img {
+	max-width: 400px; /* control image size directly */
+	height: auto;
+	border-radius: 10px;
+}
 h1, h2, h3, h4, h5, h6 {
 	font-weight: normal;
 	font-family: 'Oswald', sans-serif;

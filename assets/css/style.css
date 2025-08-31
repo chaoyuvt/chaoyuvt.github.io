@@ -124,7 +124,7 @@ padding: 10px 0 0;
 }
 header#head::after {
 content: '';
-background: rgba(3, 41, 55, 0.72);
+background: rgba(3, 41, 55, 0.45);
 width: 100%;
 height: inherit;
 position: absolute;

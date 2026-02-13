@@ -1,0 +1,16 @@
+# The following is the order of the links in the header of the website.
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "CV"
+    url: /cv/
+
+  - title: "Contact"
+    url: /contact/
+
+  - title: "CNSR"
+    url: https://www.cnsr.ictas.vt.edu/

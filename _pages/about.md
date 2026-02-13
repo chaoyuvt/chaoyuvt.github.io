@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently a Ph.D. student in Computer Science at Virginia Tech, under the supervision of Professor [Wenjing Lou](https://www.cnsr.ictas.vt.edu/WJLou.html).
 
-My research is dedicated to exploring the native security challenges of AI innovations and how AI can be leveraged to enhance security. It encompasses Large Language Models (watermarking for IP protection, adversarial example attacks, jailbreak exploits), Federated Learning Systems (privacy leakage, defense mechanisms, Byzantine resiliency), AI-Driven Network Security (machine learning-based intrusion detection systems), and Heterogeneous Computing (cryptographic and machine learning applications).
+I focus on **AI Security and Safety**, with particular emphasis on LLMs and agentic AI systems, federated learning, and broader machine learning pipelines. My work addresses security and safety risks in deployed AI systems, including adversarial attacks (e.g., prompt injection and jailbreaks), malicious or anomalous behaviors, privacy leakage, and system-level attack vectors. I design evaluation, detection, and mitigation mechanisms, as well as post-training and task-specific customization strategies, to help align AI systems with essential security and safety requirements prior to production use.
 
 News
 ======

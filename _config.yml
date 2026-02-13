@@ -23,13 +23,13 @@ repository               : "chaoyuvt/chaoyuvt.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Chaoyu Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate in Computer Science at Virginia Tech. Research in AI security, federated learning, and network security."
   location         : "Arlington, VA"
   employer         : "Virginia Tech"
-  uri              : "https://www.cnsr.ictas.vt.edu/"
+  uri              : "https://chaoyuvt.github.io/"
   email            : "chaoyu@vt.edu" 
 
   # Academic websites

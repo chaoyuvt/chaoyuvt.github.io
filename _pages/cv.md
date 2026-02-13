@@ -45,21 +45,3 @@ Academic Services
 ======
 * **Workshop (Web Specialist / Volunteer):** NSF CISE CAREER Workshop 2023, 2024, 2025; ARO Workshop on AI for Security and Security of AI 2023
 * **Reviewer / Sub-Reviewer:** IEEE SP 23-25; ACM CCS 23; IEEE INFOCOM 25; ACM WiSec 23-25; IEEE CNS 24; IEEE MILCOM 24; ESORICS 23-24; IEEE ICCCN 23; IEEE TIFS; IEEE TON; IEEE TC; IEEE TNSE; IEEE TCPS; IEEE IOTJ
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>

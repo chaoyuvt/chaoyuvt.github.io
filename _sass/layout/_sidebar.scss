@@ -149,8 +149,8 @@
 
   @include breakpoint($large) {
     display: block;
-    width: auto;
-    height: auto;
+    width: 100%;
+    margin-bottom: 1em;
   }
 
   img {
@@ -158,7 +158,13 @@
     border-radius: 50%;
 
     @include breakpoint($large) {
-      padding: 5px;
+      display: block;
+      width: 100%;
+      max-width: none;
+      aspect-ratio: 4 / 3;
+      object-fit: cover;
+      border-radius: 0;
+      padding: 0;
       border: 1px solid var(--global-border-color);
     }
   }

@@ -13,7 +13,7 @@ I focus on **AI Security and Safety**, with particular emphasis on LLMs and agen
 
 News
 ======
-* [Feb. 2026] Our Wiley-IEEE Press book *AI for Cybersecurity: Research and Practice* is out. Chapter 3: "Machine Learning-based Intrusion Detection Systems: Capabilities, Methodologies, and Open Research Challenges" (Chaoyu Zhang, Ning Wang, Thomas Hou, Wenjing Lou).
+* [Feb. 2026] Our Wiley-IEEE Press book *AI for Cybersecurity: Research and Practice* is out. 'Chapter 3: Machine Learning-based Intrusion Detection Systems: Capabilities, Methodologies, and Open Research Challenges'.
 * [Dec. 2025] Our paper 'AnonyCall: Enabling Native Private Calling in Mobile Networks', was accepted by the Network and Distributed System Security Symposium (**NDSS 2026**).
 * [Aug. 2025] Our paper 'Enabling Trustworthy Federated Learning via Remote Attestation for Mitigating Byzantine Threats', was accepted by the IEEE Military Communications Conference (**MILCOM 2025**).
 * [Feb. 2025] Our paper 'MedLeak: Harvesting Multimodal Medical Data in Secure Federated Learning with Crafted Models', was accepted by the IEEE/ACM Conference on Connected Health: Applications, Systems, and Engineering Technologies (**CHASE 2025**).

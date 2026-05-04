@@ -13,6 +13,10 @@ I focus on **AI Security and Safety**, with particular emphasis on LLMs and agen
 
 News
 ======
+* [May 2026] Our paper 'Hermes: Boosting the Performance of Machine-Learning-Based Intrusion Detection System through Geometric Feature Learning' was accepted by the IEEE Transactions on Networking (**IEEE ToN**).
+* [May 2026] Our paper 'Think Twice Before You Act: Protecting LLM Agents Against Tool Description Poisoning via Isolated Planning' was accepted by the International Conference on Machine Learning (**ICML 2026**).
+* [May 2026] Our paper 'MINIM: Privacy-Aware Minimal View for Agents via Trusted Local Sanitization' was accepted by the International Conference on Machine Learning (**ICML 2026**).
+* [May 2026] Our paper 'ARMOR 2025: A Military-Aligned Benchmark for Evaluating Large Language Model Safety Beyond Civilian Contexts' was accepted by the International Conference on Military Communication and Information Systems (**ICMCIS 2026**).
 * [Feb. 2026] Our Wiley-IEEE Press book *AI for Cybersecurity: Research and Practice* is out. 'Chapter 3: Machine Learning-based Intrusion Detection Systems: Capabilities, Methodologies, and Open Research Challenges'.
 * [Dec. 2025] Our paper 'AnonyCall: Enabling Native Private Calling in Mobile Networks', was accepted by the Network and Distributed System Security Symposium (**NDSS 2026**).
 * [Aug. 2025] Our paper 'Enabling Trustworthy Federated Learning via Remote Attestation for Mitigating Byzantine Threats', was accepted by the IEEE Military Communications Conference (**MILCOM 2025**).

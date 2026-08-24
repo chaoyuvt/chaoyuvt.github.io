@@ -11,9 +11,7 @@ I received my Ph.D. in Computer Science from the Department of Computer Science 
 
 Research Interests
 ======
-My research focuses on **AI Security and Safety**. I build trustworthy machine learning systems that remain reliable in adversarial and distributed settings, spanning federated learning, generative models, and agentic AI.
-
-I focus on **AI Security and Safety**, with particular emphasis on LLMs and agentic AI systems, federated learning, and broader machine learning pipelines. My work addresses security and safety risks in deployed AI systems, including adversarial attacks (e.g., prompt injection and jailbreaks), malicious or anomalous behaviors, privacy leakage, and system-level attack vectors. I design evaluation, detection, and mitigation mechanisms, as well as post-training and task-specific customization strategies, to help align AI systems with essential security and safety requirements prior to production use.
+My research focuses on **Trustworthy AI Systems**, spanning AI infrastructure, the machine learning lifecycle, and AI-enabled applications. At the infrastructure layer, I study secure and efficient cloud and distributed systems, communication networks, and heterogeneous computing architectures. At the machine learning layer, I address security, privacy, robustness, and auditability across data, training, fine-tuning, inference, deployment, and federated learning. At the application layer, I develop and evaluate agentic and domain-specific AI systems using adversarial analysis, red teaming, anomaly detection, safety evaluation, and practical defenses for real-world deployment.
 
 News
 ======

@@ -11,7 +11,7 @@ I received my Ph.D. in Computer Science from the Department of Computer Science 
 
 Research Interests
 ======
-My research focuses on **Trustworthy AI Systems**, spanning AI infrastructure, the machine learning lifecycle, and AI-enabled applications. At the infrastructure layer, I study secure and efficient cloud and distributed systems, communication networks, and heterogeneous computing architectures. At the machine learning layer, I address security, privacy, robustness, and auditability across data, training, fine-tuning, inference, deployment, and federated learning. At the application layer, I develop and evaluate agentic and domain-specific AI systems using adversarial analysis, red teaming, anomaly detection, safety evaluation, and practical defenses for real-world deployment.
+My research focuses on Trustworthy AI Systems, spanning AI infrastructure, the machine learning lifecycle, and AI-enabled applications. At the infrastructure layer, I study secure and efficient cloud and distributed systems, communication networks, and heterogeneous computing architectures. At the machine learning layer, I address security, privacy, robustness, and auditability across data, training, fine-tuning, inference, and deployment. At the application layer, I develop and evaluate LLM-based systems, agentic AI, domain-specific applications, and federated learning using  red teaming, anomaly detection, safety evaluation, and practical defenses for real-world deployment.
 
 News
 ======

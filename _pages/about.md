@@ -13,6 +13,9 @@ I focus on **AI Security and Safety**, with particular emphasis on LLMs and agen
 
 News
 ======
+* [Aug. 2026] Our paper 'Trusting What You Cannot See: Auditable Fine-Tuning and Inference for Proprietary AI' was published at the 35th USENIX Security Symposium (**USENIX Security 2026**).
+* [Aug. 2026] Our paper 'Skynet: Workflow-Level Anomaly Detection for Agentic AI via Semantic and Structural Modeling' was accepted by the 27th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (**MobiHoc 2026**).
+* [Aug. 2026] Our paper 'Enabling Emergency Communication via Semantic Radar-Centric ISAC' was accepted by the IEEE Military Communications Conference (**MILCOM 2026**).
 * [May 2026] Our paper 'Hermes: Boosting the Performance of Machine-Learning-Based Intrusion Detection System through Geometric Feature Learning' was accepted by the IEEE Transactions on Networking (**IEEE ToN**).
 * [May 2026] Our paper 'Think Twice Before You Act: Protecting LLM Agents Against Tool Description Poisoning via Isolated Planning' was accepted by the International Conference on Machine Learning (**ICML 2026**).
 * [May 2026] Our paper 'MINIM: Privacy-Aware Minimal View for Agents via Trusted Local Sanitization' was accepted by the International Conference on Machine Learning (**ICML 2026**).

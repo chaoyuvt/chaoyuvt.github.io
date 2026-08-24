@@ -27,10 +27,10 @@ author:
   name             : "Chaoyu Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. in Computer Science, Virginia Tech."
-  location         : "Arlington, VA"
-  employer         : "Virginia Tech"
-  uri              : "https://chaoyuvt.github.io/"
-  email            : "chaoyu@vt.edu" 
+  location         : # "Arlington, VA"
+  employer         : # "Virginia Tech"
+  uri              : # "https://chaoyuvt.github.io/"
+  email            : # "chaoyu@vt.edu" 
 
   # Academic websites
   academia         : # URL

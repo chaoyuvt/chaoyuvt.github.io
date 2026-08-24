@@ -7,12 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student in Computer Science at Virginia Tech, under the supervision of Professor [Wenjing Lou](https://www.cnsr.ictas.vt.edu/WJLou.html).
+I received my Ph.D. in Computer Science from the Department of Computer Science at Virginia Tech, advised by Professor [Wenjing Lou](https://www.cnsr.ictas.vt.edu/WJLou.html). My dissertation is [*Building Trustworthy Machine Learning Systems for Security: From Federated Learning to Agentic AI*](https://vtechworks.lib.vt.edu/items/ece8a020-eed5-410a-91aa-76f2b1ebb94c). I was a Research Scientist Intern at TikTok in 2025 and a Research Scientist Intern at Lawrence Livermore National Laboratory in 2019. I received my M.S. in Computer Science from Arkansas State University in 2021, and my B.E. in Electronic Engineering from Beijing University of Posts and Telecommunications in 2018.
+
+Research Interests
+======
+My research focuses on **AI Security and Safety**. I build trustworthy machine learning systems that remain reliable in adversarial and distributed settings, spanning federated learning, generative models, and agentic AI.
 
 I focus on **AI Security and Safety**, with particular emphasis on LLMs and agentic AI systems, federated learning, and broader machine learning pipelines. My work addresses security and safety risks in deployed AI systems, including adversarial attacks (e.g., prompt injection and jailbreaks), malicious or anomalous behaviors, privacy leakage, and system-level attack vectors. I design evaluation, detection, and mitigation mechanisms, as well as post-training and task-specific customization strategies, to help align AI systems with essential security and safety requirements prior to production use.
 
 News
 ======
+* [Aug. 2026] I received my Ph.D. in Computer Science from Virginia Tech. My dissertation is [*Building Trustworthy Machine Learning Systems for Security: From Federated Learning to Agentic AI*](https://vtechworks.lib.vt.edu/items/ece8a020-eed5-410a-91aa-76f2b1ebb94c).
 * [Aug. 2026] Our paper 'Trusting What You Cannot See: Auditable Fine-Tuning and Inference for Proprietary AI' was published at the 35th USENIX Security Symposium (**USENIX Security 2026**).
 * [Aug. 2026] Our paper 'Skynet: Workflow-Level Anomaly Detection for Agentic AI via Semantic and Structural Modeling' was accepted by the 27th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (**MobiHoc 2026**).
 * [Aug. 2026] Our paper 'Enabling Emergency Communication via Semantic Radar-Centric ISAC' was accepted by the IEEE Military Communications Conference (**MILCOM 2026**).

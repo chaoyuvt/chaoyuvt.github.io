@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Science, Virginia Tech (VT), 2021-present
-* M.S. in Computer Science, Arkansas State University (ASU), 2018-2021
-* B.E. in Electronic Engineering, Beijing University of Posts and Telecommunications (BUPT), 2014-2018
+* Ph.D. in Computer Science, Virginia Tech (VT), 2021–2026
+  * Advisor: Prof. [Wenjing Lou](https://www.cnsr.ictas.vt.edu/WJLou.html)
+  * Dissertation: [Building Trustworthy Machine Learning Systems for Security: From Federated Learning to Agentic AI](https://vtechworks.lib.vt.edu/items/ece8a020-eed5-410a-91aa-76f2b1ebb94c)
+* M.S. in Computer Science, Arkansas State University (ASU), 2018–2021
+* B.E. in Electronic Engineering, Beijing University of Posts and Telecommunications (BUPT), 2014–2018
 
 Experience
 ======

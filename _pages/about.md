@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I received my Ph.D. in Computer Science from the Department of Computer Science at Virginia Tech, advised by Professor [Wenjing Lou](https://www.cnsr.ictas.vt.edu/WJLou.html). My dissertation is [*Building Trustworthy Machine Learning Systems for Security: From Federated Learning to Agentic AI*](https://vtechworks.lib.vt.edu/items/ece8a020-eed5-410a-91aa-76f2b1ebb94c). I was a Research Scientist Intern at TikTok in 2025 and a Research Scientist Intern at Lawrence Livermore National Laboratory in 2019. I received my M.S. in Computer Science from Arkansas State University in 2021, and my B.E. in Electronic Engineering from Beijing University of Posts and Telecommunications in 2018.
+I am a Machine Learning Engineer at Airbnb. I received my Ph.D. in Computer Science from the Department of Computer Science at Virginia Tech, advised by Professor [Wenjing Lou](https://www.cnsr.ictas.vt.edu/WJLou.html). My dissertation is [*Building Trustworthy Machine Learning Systems for Security: From Federated Learning to Agentic AI*](https://vtechworks.lib.vt.edu/items/ece8a020-eed5-410a-91aa-76f2b1ebb94c). I was a Research Scientist Intern at TikTok in 2025 and a Research Scientist Intern at Lawrence Livermore National Laboratory in 2019. I received my M.S. in Computer Science from Arkansas State University in 2021, and my B.E. in Electronic Engineering from Beijing University of Posts and Telecommunications in 2018.
 
 Research Interests
 ======

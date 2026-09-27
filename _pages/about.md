@@ -15,7 +15,7 @@ My research focuses on Trustworthy AI Systems, spanning AI infrastructure, the m
 
 News
 ======
-* [Sep. 2026] Our paper '[Aegis: Generative Gradient Masking for Privacy-Preserving Medical Federated Learning](https://openreview.net/forum?id=vUlQnQztWO)' was accepted by the Conference on Neural Information Processing Systems (**NeurIPS 2026**).
+* [Sep. 2026] Our paper 'Aegis: Generative Gradient Masking for Privacy-Preserving Medical Federated Learning' was accepted by the Conference on Neural Information Processing Systems (**NeurIPS 2026**).
 * [Aug. 2026] I received my Ph.D. in Computer Science from Virginia Tech. My dissertation is [*Building Trustworthy Machine Learning Systems for Security: From Federated Learning to Agentic AI*](https://vtechworks.lib.vt.edu/items/ece8a020-eed5-410a-91aa-76f2b1ebb94c).
 * [Aug. 2026] Our paper 'Trusting What You Cannot See: Auditable Fine-Tuning and Inference for Proprietary AI' was published at the 35th USENIX Security Symposium (**USENIX Security 2026**).
 * [Aug. 2026] Our paper 'Skynet: Workflow-Level Anomaly Detection for Agentic AI via Semantic and Structural Modeling' was accepted by the 27th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (**MobiHoc 2026**).
